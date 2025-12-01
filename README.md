@@ -37,6 +37,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Saoussen GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaggaraSaoussen&layout=compact&theme=tokyonight)
+
 
