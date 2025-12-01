@@ -41,6 +41,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaggaraSaoussen&layout=compact&theme=tokyonight)
 
 ## 🐍 My GitHub Contribution Snake
-![GitHub Snake](https://github.com/NaggaraSaoussen/github-contribution-snake.svg)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaggaraSaoussen&theme=react-dark)
 
 
