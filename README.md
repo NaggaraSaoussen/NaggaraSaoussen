@@ -26,6 +26,7 @@ Je développe des applications robustes et scalables en utilisant des technologi
 - **School Manager** – Gestion complète des étudiants (Spring Boot & Thymeleaf)  
 - **PlantDet** – Détection des maladies des plantes (IA & Mobile/Web)  
 - **Parapharmacie App** – Gestion des produits et commandes  
+- **TapMeet** – Application de gestion d’événements et check-in des lieux avec contrôle d’accès pour utilisateurs et admins  
 
 ---
 
@@ -39,9 +40,7 @@ Je développe des applications robustes et scalables en utilisant des technologi
 
 ## 🐍 Activité GitHub
 
-![Snake animation](https://raw.githubusercontent.com/NaggaraSaoussen/NaggaraSaoussen/output/snake.svg)
-
-
+![GitHub Snake](https://github.com/NaggaraSaoussen/NaggaraSaoussen/blob/output/snake.svg)
 
 ---
 
@@ -50,4 +49,3 @@ Je développe des applications robustes et scalables en utilisant des technologi
 - Email : [naggara.sawsen@gmail.com](mailto:naggara.sawsen@gmail.com)  
 - GitHub : [NaggaraSaoussen](https://github.com/NaggaraSaoussen)  
 - LinkedIn : [Saoussen Naggara](https://www.linkedin.com/in/saoussen-naggara-ab999520b/)
-
