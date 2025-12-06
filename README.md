@@ -39,7 +39,7 @@ Je développe des applications robustes et scalables en utilisant des technologi
 
 ## 🐍 Activité GitHub
 
-![GitHub Snake](https://github.com/NaggaraSaoussen/NaggaraSaoussen/blob/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/NaggaraSaoussen/NaggaraSaoussen/output/github-snake.svg)
 
 ---
 
