@@ -81,7 +81,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaggaraSaoussen&theme=tokyo-night&hide_border=true&area=true"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=NaggaraSaoussen&theme=tokyo-night&hide_border=true&area=true"
+title="GitHub contribution activity graph showing commits and repository activity over time"
+alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -98,26 +102,12 @@
 
 <hr/>
 
-<!-- ================= CONTACT ================= -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-<a href="mailto:naggara.sawsen@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saoussen-naggara-ab999520b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NaggaraSaoussen">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-<br/>
+<!-- ================= CONTACT ================= --> 
+<h2>🌐 Connect With Me</h2> 
+<p>📧 naggara.sawsen@gmail.com</p> <p>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/saoussen-naggara-ab999520b/">Saoussen Naggara</a></p>
+  <p>💻 GitHub: <a href="https://github.com/NaggaraSaoussen">NaggaraSaoussen</a></p>
+  <hr/>
 
 <div align="center">
 
