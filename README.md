@@ -18,7 +18,7 @@
   <a href="mailto:naggara.sawsen@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=NaggaraSaoussen&label=Profile%10Views&color=6366F1&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=NaggaraSaoussen&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
 
   <br/><br/>
 
@@ -99,9 +99,8 @@
   <!-- ================= GITHUB STATS ================= -->
   <h2>📊 GitHub Analytics</h2>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaggaraSaoussen&layout=compact&theme=tokyonight"/>
-
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaggaraSaoussen&layout=compact&theme=tokyonight"/>
   <hr/>
 
   <!-- ================= CONTRIBUTION ACTIVITY ================= -->
