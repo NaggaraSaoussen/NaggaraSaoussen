@@ -18,7 +18,7 @@
   <a href="mailto:naggara.sawsen@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=NaggaraSaoussen&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=NaggaraSaoussen&label=Profile%10Views&color=6366F1&style=for-the-badge"/>
 
   <br/><br/>
 
@@ -27,17 +27,14 @@
   <hr/>
 
   <!-- ================= ABOUT ================= -->
-  <h2>🎯 About Me</h2>
-
-  <pre>
-const saoussen = {
-  education: "Software Engineering @ EPI Digital School",
-  location: "Monastir,Tunisia 🇹🇳",
-  status: "Final Year Engineering Student",
-  focus: ["Spring Boot", "NestJS", "React", "System Design"],
-};
-  </pre>
-
+ <h2>🎯 About Me</h2>
+<ul>
+  <li>🎓 Éducation : Software Engineering @ EPI Digital School</li>
+  <li>📍 Localisation : Monastir, Tunisia</li>
+  <li>🧑‍🎓 Statut : Final Year Engineering Student</li>
+  <li>💡 Focus : Spring Boot, NestJS, React, Flutter, System Design</li>
+  <li>🔥 Objectif : Construire des applications web et mobiles scalables et sécurisées</li>
+</ul>
   <hr/>
 
   <!-- ================= QUICK HIGHLIGHTS ================= -->
