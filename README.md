@@ -76,36 +76,54 @@
 
   <hr/>
 
-  <!-- ================= GITHUB STATS ================= -->
-  <h2>📊 GitHub Analytics</h2>
+<!-- ================= GITHUB ACTIVITY ================= -->
+<h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaggaraSaoussen&layout=compact&theme=tokyonight"/>
-
-</div>
-  <hr/>
-
-  <!-- ================= CONTRIBUTION ACTIVITY ================= -->
-  <h2>🐍 Contribution Activity</h2>
-
-  <img src="https://github.com/NaggaraSaoussen/NaggaraSaoussen/blob/output/snake.svg"/>
-
-  <hr/>
-
-  <!-- ================= CONTACT ================= -->
-  <h2>🌐 Connect With Me</h2>
-
-  <p>📧 naggara.sawsen@gmail.com</p>
-  <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/saoussen-naggara-ab999520b/">Saoussen Naggara</a></p>
-  <p>💻 GitHub: <a href="https://github.com/NaggaraSaoussen">NaggaraSaoussen</a></p>
-
-  <hr/>
-
-  <h3>“Code. Learn. Build. Repeat.”</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaggaraSaoussen&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
+<hr/>
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://github.com/NaggaraSaoussen/NaggaraSaoussen/blob/output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+<hr/>
+
+<!-- ================= CONTACT ================= -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="mailto:naggara.sawsen@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saoussen-naggara-ab999520b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NaggaraSaoussen">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+💡 *Always learning. Always building.*
+
+###  “Code. Learn. Build. Repeat.”
+
+</div>
 
