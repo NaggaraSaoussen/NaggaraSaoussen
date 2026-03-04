@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Saoussen Naggara - GitHub Profile</title>
-</head>
+
 <body>
 
 <div align="center">
