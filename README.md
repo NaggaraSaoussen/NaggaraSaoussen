@@ -34,21 +34,7 @@
 </ul>
   <hr/>
 
-  <!-- ================= QUICK HIGHLIGHTS ================= -->
-  <h2>🔥 Quick Highlights</h2>
-
-  <table border="1" cellpadding="10">
-    <tr>
-      <th>🎓 Education</th>
-      <th>💼 Experience</th>
-    </tr>
-    <tr>
-      <td>Final Year Engineering Student</td>
-      <td>Full-Stack Development Projects</td>
-    </tr>
-  </table>
-
-  <hr/>
+ 
 
   <!-- ================= TECH STACK ================= -->
   <h2>💻 Tech Stack</h2>
