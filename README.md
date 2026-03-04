@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<body>
 
 <div align="center">
 
@@ -82,8 +79,13 @@
   <!-- ================= GITHUB STATS ================= -->
   <h2>📊 GitHub Analytics</h2>
 
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight"/>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NaggaraSaoussen&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaggaraSaoussen&layout=compact&theme=tokyonight"/>
+
+</div>
   <hr/>
 
   <!-- ================= CONTRIBUTION ACTIVITY ================= -->
@@ -102,9 +104,8 @@
 
   <hr/>
 
-  <h3>⭐ “Code. Learn. Build. Repeat.”</h3>
+  <h3>“Code. Learn. Build. Repeat.”</h3>
 
 </div>
 
-</body>
-</html>
+
